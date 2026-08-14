@@ -1,0 +1,7 @@
+crewai
+crewai-tools
+python-dotenv
+langchain_openai
+crewai[tools]
+Agent
+SerperDevTool

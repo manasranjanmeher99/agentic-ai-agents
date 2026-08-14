@@ -1,0 +1,28 @@
+# Core
+python-dotenv
+
+# Agentic AI frameworks
+crewai
+crewai-tools
+agno
+langgraph
+langchain
+langchain-core
+langchain-community
+
+# LLM providers
+groq
+google-genai
+openai
+
+# Web search / tools
+duckduckgo-search
+serper
+
+# Data & utilities
+pandas
+numpy
+requests
+
+# Optional UI
+streamlit

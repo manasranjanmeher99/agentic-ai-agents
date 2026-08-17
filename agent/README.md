@@ -36,6 +36,8 @@ agent/
 ├── groq_agent.py
 ├── groq_agent1.py
 │
+├── phi_with_gemini_ai.ipynb
+│
 └── multiagent_financialnew_analysis.py
 ```
 

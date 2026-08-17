@@ -56,14 +56,6 @@ Examples:
 - Multi-agent teams
 - Data analysis agents
 
-### `langgraph/`
-Projects built using **LangGraph**.
-
-Examples:
-- Stateful AI agents
-- Agent workflows
-- Tool-calling agents
-- Multi-step LLM workflows
 
 ## 🛠️ Technologies
 

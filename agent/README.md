@@ -376,6 +376,7 @@ Example:
 ```env
 GEMINI_API_KEY=your_gemini_api_key
 GROQ_API_KEY=your_groq_api_key
+OPENAI_API_KEY=your_openai_api_key
 ```
 
 Add `.env` to `.gitignore`:
